@@ -1,4 +1,4 @@
-// File: C:\Users\Dell\OneDrive\Desktop\Web_deve\SASS_project\next13-ai-saas\app\(auth)\(routes)\sign-up\[[...sign-up]]\page.tsx
+// File: D:\Web Dev\ai_saas\ai_saas_platform\app\(auth)\(routes)\sign-up\[[...sign-up]]\page.tsx
 import * as entry from '../../../../../../../app/(auth)/(routes)/sign-up/[[...sign-up]]/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

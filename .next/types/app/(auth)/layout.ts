@@ -1,4 +1,4 @@
-// File: C:\Users\Dell\OneDrive\Desktop\Web_deve\SASS_project\next13-ai-saas\app\(auth)\layout.tsx
+// File: D:\Web Dev\ai_saas\ai_saas_platform\app\(auth)\layout.tsx
 import * as entry from '../../../../app/(auth)/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
